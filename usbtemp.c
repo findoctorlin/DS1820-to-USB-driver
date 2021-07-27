@@ -608,6 +608,6 @@ module_init(usbtemp_init);
 module_exit(usbtemp_exit);
 
 
-MODULE_AUTHOR("g8");
+MODULE_AUTHOR("Yuhan Lin");
 MODULE_DESCRIPTION("ds1820tousb driver");
 MODULE_LICENSE("GPL");
